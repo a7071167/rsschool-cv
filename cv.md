@@ -1,4 +1,4 @@
-# First Name, Last Name (real ones)
+# ALIAKSANDR KUFEL
 
 ### Contact Info:
 1. e-mail: kufelalexander@gmail.com
