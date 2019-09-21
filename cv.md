@@ -26,3 +26,6 @@ Additional:
 2. Udemy Course JS by Andrew Mead
 3. Udemy Course Node.JS by Andrew Mead
 4. Lond time ago: Swift Course by Michel Deiman
+
+### English
+I didn't learnt english at School, i learnt it by my self. But i have a very good experience with people for whom English is a native language. I worked for American company 1,5 years in US and than 6 month in China. And all the time a spoke with the people. Of course it was long time ago, but i still remember a little bit. This CV a wrote without any translator and vocabular)
