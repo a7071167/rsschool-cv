@@ -8,3 +8,21 @@
 ### Summary:
 I like to study too much and all the time i'm trying to do so. Firstly it is interesting, secondly i become much stronger. And grow like a developer that's mean learn all the time. And for me(i'm think so) this is the best way to do sth in my life. 
 Also i like to move(move and improve forvard). I mean i like sport and this for me the very important. If i heve a goal - i'll do it ASAP.
+
+### Skills
+Since i'm a beginner i don't know too much, but i worked already(not professional, just for my personal goals) with Google Sheets API, Firebase, MongoDB, a little bit with Node.JS and Swift.
+
+### Code exampes
+I think the best place for it my GitHub Account [(Click here)](https://github.com/a7071167)
+
+### Experience
+I have no professional experience.
+
+### Education
+Belarusian National Technical University. FITR. Automation of financial transactions.
+
+Additional:
+1. CodeAcademy(HTML, CSS)
+2. Udemy Course JS by Andrew Mead
+3. Udemy Course Node.JS by Andrew Mead
+4. Lond time ago: Swift Course by Michel Deiman
