@@ -1,0 +1,29 @@
+.header {
+    display: grid;
+    grid-template-areas: "header img"
+                         "nav img";
+    grid-template-columns: 40% 60%;
+    grid-template-rows: 10% 90%;
+    max-height: auto;
+    grid-area: header;
+  }
+  
+  nav {
+    grid-area: nav;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    grid-area: img;
+  }
+  
+  
+  body {
+    max-width: 1024px;
+    margin: auto;
+  }
+  
+  main section article {
+    font-size: 1.5rem;
+  }
